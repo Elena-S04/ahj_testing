@@ -42,10 +42,10 @@
     "mini-css-extract-plugin": "^2.7.6",
     "puppeteer": "^20.9.0",
     "url-loader": "^4.1.1",
-    "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "webpack": "^5.88.2",
     "@babel/runtime": "^7.22.6",
     "core-js": "^3.32.0",
     "webpack-dev-server": "^4.15.1"
