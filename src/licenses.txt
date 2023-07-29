@@ -1,0 +1,12 @@
+source:
+mir: https://avatars.mds.yandex.net/i?id=4559f50a1aaaf3a2a204bf63a6d1273fc4795de6-8076535-images-thumbs&n=13
+visa: https://avatars.mds.yandex.net/i?id=d712bd77264823a0eb5a0c81f1caf2c5a7e4bd2d-9380290-images-thumbs&n=13
+mastercard: https://avatars.mds.yandex.net/i?id=07b5dbed2e504b71913cac24bbd5da3c9b7c9f68-5858707-images-thumbs&n=13
+maestro: https://avatars.mds.yandex.net/i?id=b79457d0d265adfaa35e88d7f33e5049d52bf112-6321690-images-thumbs&n=13
+jcb: https://avatars.mds.yandex.net/i?id=a27a60172b7b6f0420e4e4ff848ebcd95298358f-3550108-images-thumbs&n=13
+discover: https://avatars.mds.yandex.net/i?id=e04192a3c5aad21bce63055c8adb582af23134c5-8219219-images-thumbs&n=13
+diners club: https://avatars.mds.yandex.net/i?id=99afe5fc3cb2eadaa881456deec7fbbe67f8b19c-8178604-images-thumbs&n=13
+american express: https://avatars.mds.yandex.net/i?id=e24f1ee8232af3b75649adedd1843143d59d5c12-9678040-images-thumbs&n=13
+https://www.validcreditcardnumber.com/
+https://www.pngwing.com/
+https://icons8.ru/
